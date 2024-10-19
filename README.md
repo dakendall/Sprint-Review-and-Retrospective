@@ -2,7 +2,7 @@
 Sprint Review and Retrospective for the SNHU Travel Project.
 
 How do I interpret user needs and implement them into a program? How does creating "user stories" help with this?
-To figure out what the user needs, I look to the user stories. I learn what they are asking and why they are asking for it. After I understand that, I can begin to figure out a reasonable solution to the problem. Sometimes, it may be different than what the user envisioned, but you try to get as close as possible, but within reason.
+To figure out what the user needs, I look at the user stories. I learn what they are asking and why they are asking for it. After I understand that, I can begin to figure out a reasonable solution to the problem. Sometimes, it may be different than what the user envisioned, but you try to get as close as possible, but within reason.
 
 How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
 Before I really didn’t have a specific approach when developing programs, but after learning about the agile method I would like to incorporate that into the future. I like how versatile the agile method is and the values that it holds. I like how you are continuously testing your project and always adjusting your plan depending on what situations you run into.
